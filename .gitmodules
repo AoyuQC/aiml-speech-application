@@ -1,0 +1,3 @@
+[submodule "open-source/whisper/whisper"]
+	path = open-source/whisper/whisper
+	url = git@github.com:AoyuQC/whisper.git
